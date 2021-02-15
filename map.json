@@ -68,15 +68,20 @@
          "height":100,
          "id":16,
          "name":"jitsi",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"serverraum"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":72,
          "x":0,
          "y":0
