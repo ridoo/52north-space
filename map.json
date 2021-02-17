@@ -127,7 +127,7 @@
          "height":73,
          "id":18,
          "name":"jitsi_staffmeeting",
-         "opacity":0.2,
+         "opacity":1,
          "properties":[
                 {
                  "name":"jitsiRoom",
