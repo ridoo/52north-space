@@ -21,12 +21,6 @@
          "id":1,
          "name":"52n-office",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/52north.org"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":72,
@@ -181,7 +175,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":19,
+ "nextlayerid":20,
  "nextobjectid":26,
  "orientation":"orthogonal",
  "renderorder":"right-down",
