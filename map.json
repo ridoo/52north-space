@@ -63,6 +63,12 @@
          "id":26,
          "name":"toilet",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"https:\/\/52north.org\/delivery\/workadventure\/sounds\/toilet.mp3"
+                }],
          "type":"tilelayer",
          "visible":false,
          "width":72,
@@ -1028,15 +1034,6 @@
          "tilecount":64,
          "tileheight":32,
          "tiles":[
-                {
-                 "id":27,
-                 "properties":[
-                        {
-                         "name":"playAudio",
-                         "type":"string",
-                         "value":"https:\/\/52north.org\/delivery\/workadventure\/sounds\/toilet.mp3"
-                        }]
-                }, 
                 {
                  "id":36,
                  "properties":[
