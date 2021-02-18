@@ -33,6 +33,12 @@
          "id":27,
          "name":"exit_52n",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":".\/map.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":10,
@@ -45,12 +51,6 @@
          "id":25,
          "name":"Boden",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitSceneUrl",
-                 "type":"string",
-                 "value":".\/map.json"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":10,
